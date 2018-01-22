@@ -1,2 +1,2 @@
-# Time-Series-Forecasting-with-ARIMA-ANN-HYBRID
+# Time-Series-Forecasting-Using-Recurrent-Neural-Networks
 A Bachelors Thesis Project
