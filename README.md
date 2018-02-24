@@ -1,2 +1,3 @@
 # Time-Series-Forecasting-Using-Recurrent-Neural-Networks
-A Bachelors Thesis Project
+
+This Repository contains the generic notebooks for the experimental part of my Bachelors Thesis.
