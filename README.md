@@ -1,6 +1,11 @@
 # Time-Series-Forecasting-Using-Recurrent-Neural-Networks
 
-This Repository contains the generic notebooks for the experimental part of my Bachelors Thesis.
+This Repository contains the generic notebooks for the experimental part of my Bachelors Thesis. Feel free to explore its content!
+
+- Folder Models: contains the various, generic notebooks used for the experiment.
+- Folder Data: contains the two datasets used for the experiment.
+
+The metrics of the individual models were collected in Experiment Results spreadsheet.
 
 
 
